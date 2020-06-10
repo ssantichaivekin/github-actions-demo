@@ -1,3 +1,3 @@
-import numpy
+import shapely
 
-print("numpy successfully imported!!")
+print("shapely successfully imported!!")
